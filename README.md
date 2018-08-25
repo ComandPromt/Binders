@@ -35,7 +35,7 @@ Lo siguiente que debemos hacer es buscar la copia de seguridad de la base de dat
 
 Una vez tengamos la base de datos descargada en nuestro PC. debemos ingresar en:
 
-[Link)](http://www.recovermessages.com/)
+[Link](http://www.recovermessages.com/)
 
 A continuación seleccionaremos nuestra base de datos, aceptamos las condiciones y presionamos
 procesar. 
